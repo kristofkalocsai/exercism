@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11    CMakeFiles/bob.dir/bob_test.cpp.o  -o bob -rdynamic /usr/local/lib/libboost_unit_test_framework.a /usr/local/lib/libboost_date_time.a /usr/local/lib/libboost_regex.a 

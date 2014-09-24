@@ -1,0 +1,1 @@
+/home/kristofkalocsai/exercism/cpp/bob/CMakeFiles/bob.dir
